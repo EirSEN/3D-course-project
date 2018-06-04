@@ -1,0 +1,14 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: ContainerDoor2Animator
+  m_Controller: {fileID: 9100000, guid: 969a671485271d648a8a541af2cfb19b, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 031b6017127db114f8341ca1f098f643, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: a7c3bdd5bfd1653468d67e82a5a16134, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: fb834d9abf313534eb79098a74a024d3, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 36aa9ef95366b4b4abfeb42ef944425e, type: 2}
