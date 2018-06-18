@@ -4,9 +4,25 @@ timeCreated: 18446744011573954816
 ModelImporter:
   serializedVersion: 22
   fileIDToRecycleName:
+    100000: //RootNode
+    100002: gGUN01h_action
+    100004: gGUN01h_body
+    400000: //RootNode
+    400002: gGUN01h_action
+    400004: gGUN01h_body
+    2300000: gGUN01h_action
+    2300002: gGUN01h_body
+    3300000: gGUN01h_action
+    3300002: gGUN01h_body
     4300000: gGUN01h_body
     4300002: gGUN01h_action
-  externalObjects: {}
+    11100000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Default
+    second: {fileID: 2100000, guid: dd57da1383c2b2648a4b5ecac1136ffa, type: 2}
   materials:
     importMaterials: 1
     materialName: 0
